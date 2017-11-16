@@ -5,3 +5,5 @@ out
 .gradle
 node_modules
 package-lock.json
+target
+.DS_STORE

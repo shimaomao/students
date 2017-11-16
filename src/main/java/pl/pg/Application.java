@@ -1,4 +1,4 @@
-package pl.students;
+package pl.pg;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

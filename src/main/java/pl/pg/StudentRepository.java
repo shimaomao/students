@@ -1,4 +1,4 @@
-package pl.students;
+package pl.pg;
 
 import org.springframework.stereotype.Repository;
 import reactor.core.publisher.Flux;
